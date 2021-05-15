@@ -1,16 +1,15 @@
 {
   "expo": {
-    "name": "gym",
-    "slug": "gym",
-    "version": "1.0.0",
+    "name": "GYM",
+    "slug": "gym-controller",
+    "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "contain"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -25,7 +24,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.kenenisaProject.gym",
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/images/favicon.png"

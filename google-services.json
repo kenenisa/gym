@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "314774869944",
+    "firebase_url": "https://gyms-975b7-default-rtdb.firebaseio.com",
+    "project_id": "gyms-975b7",
+    "storage_bucket": "gyms-975b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314774869944:android:6e74a20ce6ee04a12ea14d",
+        "android_client_info": {
+          "package_name": "com.keni.gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314774869944-9b8gcue3j19e6to5epm69mfjgq8qefk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn6XGwg1hTKnCHzIWSoK1pgjz2S9dZ3e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314774869944-9b8gcue3j19e6to5epm69mfjgq8qefk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
